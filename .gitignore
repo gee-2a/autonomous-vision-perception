@@ -1,0 +1,18 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+
+# Local environment and editor files
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
+
+# Training outputs and TensorBoard logs
+outputs/

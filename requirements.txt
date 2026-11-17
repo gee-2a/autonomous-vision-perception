@@ -1,0 +1,5 @@
+tensorflow-macos
+tensorflow-metal
+tensorflow-datasets
+matplotlib
+kagglehub
